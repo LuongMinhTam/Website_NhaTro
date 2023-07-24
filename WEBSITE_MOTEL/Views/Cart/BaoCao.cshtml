@@ -1,0 +1,75 @@
+﻿@model WEBSITE_MOTEL.Models.PHONGTRO
+@using WEBSITE_MOTEL.Models
+@{
+    TAIKHOAN nd = (TAIKHOAN)Session["TaiKhoan"];
+    CHUTRO ct = (CHUTRO)Session["ChuTro"];
+}
+
+@{
+    Layout = "~/Views/_LayoutUser.cshtml";
+}
+<script src="~/ckeditor/ckeditor.js"></script>
+@using (Html.BeginForm("BaoCao", "Cart", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    <div class="nav-text">
+        <ol>
+            <li><a href="@Url.Action("Index","Motel")">Trang chủ</a></li>
+            <li id="arrow1">  <i class="fa fa-angle-right"></i>  </li>
+            <li><a href="#">Đăng tin</a></li>
+        </ol>
+    </div>
+}
+
+<section class="wrap-content">
+    @Html.AntiForgeryToken()
+    <div class="content post" style="border: none;">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <h3 class="notice">Là người văn minh và tôn trọng người xem, hãy viết nội dung bằng Tiếng Việt có dấu!</h3>
+        <form class="form" id="form-dangtin" enctype="multipart/form-data" novalidate="novalidate" method="post">
+            <div class="wrapper form-step step1">
+                <!--Thông tin cơ bản-->
+                <div class="group-form">
+                    <div class="form-title"><h3>THÔNG TIN CƠ BẢN</h3></div>
+                    <div class="group-form-body">
+                        <div class="form-group">
+                            <label for="tieude">Tiêu đề tin:</label>
+                            <input type="email" value="@Model.TenNhaTro" class="form-control" id="TenPhong" name="sTenPhong" required>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Nội dung báo cáo chi tiết-->
+                <div class="group-form">
+                        <div class="form-title"><h3>THÔNG TIN MÔ TẢ CHI TIẾT</h3></div>
+                        <div class="group-form-body">
+                            <div class="form-group">
+                                <label for="comment">Giới thiệu mô tả về tin đăng của bạn. Ví dụ: Khu nhà có vị trí thuận lợi: Gần trường học, gần trạm xe buýt ...Tổng diện tích 52m2, đường đi ô tô vào tận cửa...</label>
+                                <textarea class="form-control" rows="5" id="report" name="sNoiDung"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                
+                <button type="submit" class="btn btn-default" style="width:135px;">Đăng tin ngay</button>
+            </div>
+        </form>
+    </div>
+</section>
+
+
+<script>
+
+<script>
+    var curDate = new Date();
+
+    // Ngày hiện tại
+    var curDay = curDate.getDate();
+
+    // Tháng hiện tại
+    var curMonth = curDate.getMonth() + 1;
+
+    // Năm hiện tại
+    var curYear = curDate.getFullYear();
+
+    // Gán vào thẻ HTML
+    document.getElementById('current-time').innerHTML = curDay + "/" + curMonth + "/" + curYear;
+</script>

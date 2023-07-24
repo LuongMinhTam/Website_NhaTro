@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOaC1sbVWoHkIK5qF5DGaoKvfkR+A7AXb0b1DG/MX5VG94YpV/M3x+UZBGAsBY+XNEYFhx6cA/SS5uQSd4eAMQ==",
+  "success": true,
+  "projectFilePath": "E:\\TDMU\\WEBSITE_MOTEL\\WEBSITE_MOTEL\\WEBSITE_MOTEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\captcha\\4.4.2\\captcha.4.4.2.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\epplus\\6.2.4\\epplus.6.2.4.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\epplus.system.drawing\\6.1.1\\epplus.system.drawing.6.1.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.9\\microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.io.recyclablememorystream\\1.4.1\\microsoft.io.recyclablememorystream.1.4.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.web.infrastructure\\2.0.1\\microsoft.web.infrastructure.2.0.1.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.data.sqlite.core\\1.0.108\\system.data.sqlite.core.1.0.108.nupkg.sha512"
+  ],
+  "logs": []
+}

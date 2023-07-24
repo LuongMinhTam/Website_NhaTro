@@ -1,0 +1,598 @@
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.AssemblyReference.cache
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CoreCompileInputs.cache
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll.config
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.pdb
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe.config
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.rsp
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe.config
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.rsp
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.AppContext.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Collections.Immutable.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Console.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Globalization.Calendars.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Http.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Sockets.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Reflection.Metadata.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.ValueTuple.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe.config
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.rsp
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe.config
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.Web.Infrastructure.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WebGrease.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.pdb
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CopyComplete
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.pdb
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.dll
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.xml
+C:\PHONGTROONLINE\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll.config
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.pdb
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe.config
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.rsp
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe.config
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.rsp
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.AppContext.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Collections.Immutable.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Console.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Globalization.Calendars.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Http.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Sockets.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Reflection.Metadata.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.ValueTuple.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe.config
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.rsp
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe.config
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.Web.Infrastructure.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WebGrease.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.pdb
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.AssemblyReference.cache
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CoreCompileInputs.cache
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CopyComplete
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.pdb
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll.config
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.pdb
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe.config
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.rsp
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe.config
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.rsp
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.AppContext.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Console.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Http.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe.config
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.rsp
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WebGrease.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.pdb
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.AssemblyReference.cache
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CopyComplete
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.dll
+C:\Users\Hoàng Đỗ\OneDrive\Desktop\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.pdb
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.AssemblyReference.cache
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CoreCompileInputs.cache
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.pdb
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll.config
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.pdb
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe.config
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.rsp
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe.config
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.rsp
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.AppContext.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Console.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Http.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe.config
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.rsp
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WebGrease.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.pdb
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CopyComplete
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll.config
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.pdb
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe.config
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.rsp
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe.config
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.rsp
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.AppContext.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Collections.Immutable.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Console.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Globalization.Calendars.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Http.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Sockets.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Reflection.Metadata.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.ValueTuple.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe.config
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.rsp
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe.config
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.Web.Infrastructure.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WebGrease.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.pdb
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.AssemblyReference.cache
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CoreCompileInputs.cache
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CopyComplete
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.pdb
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.Interfaces.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.System.Drawing.dll
+D:\NĂM III\HK I\TH lập trình web\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.Interfaces.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.System.Drawing.dll
+C:\Users\Hoàng Đỗ\Downloads\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\BotDetect.Web.Mvc.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\BotDetect.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.Interfaces.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.System.Drawing.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\TDMU\Y2_2022_2023\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Data.SQLite.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll.config
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.pdb
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe.config
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.rsp
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe.config
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.rsp
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.AppContext.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Collections.Immutable.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Console.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Globalization.Calendars.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Http.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Sockets.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Reflection.Metadata.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.ValueTuple.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe.config
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.rsp
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe.config
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\BotDetect.Web.Mvc.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\BotDetect.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.Interfaces.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.System.Drawing.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Data.SQLite.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.Web.Infrastructure.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WebGrease.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.xml
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.xml
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.xml
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.xml
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.pdb
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.AssemblyReference.cache
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CoreCompileInputs.cache
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CopyComplete
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.dll
+C:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.pdb
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll.config
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WEBSITE_MOTEL.pdb
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.exe.config
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csc.rsp
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.exe.config
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\csi.rsp
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.AppContext.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Collections.Immutable.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Console.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Globalization.Calendars.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Http.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Net.Sockets.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Reflection.Metadata.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.ValueTuple.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.exe.config
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\vbc.rsp
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\roslyn\VBCSCompiler.exe.config
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\BotDetect.Web.Mvc.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\BotDetect.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.Interfaces.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\EPPlus.System.Drawing.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Mvc.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Razor.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Helpers.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Deployment.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.Razor.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.WebPages.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.Web.Infrastructure.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Data.SQLite.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\WebGrease.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.xml
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\PagedList.Mvc.xml
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\System.Web.Optimization.xml
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Newtonsoft.Json.xml
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Antlr3.Runtime.pdb
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.AssemblyReference.cache
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CoreCompileInputs.cache
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.csproj.CopyComplete
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.dll
+E:\TDMU\WEBSITE_MOTEL\WEBSITE_MOTEL\obj\Debug\WEBSITE_MOTEL.pdb

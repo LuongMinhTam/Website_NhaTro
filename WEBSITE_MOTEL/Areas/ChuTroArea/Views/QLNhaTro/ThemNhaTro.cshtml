@@ -1,0 +1,65 @@
+﻿
+@using WEBSITE_MOTEL.Models
+@{
+    TAIKHOAN nd = (TAIKHOAN)Session["TaiKhoan"];
+    CHUTRO ct = (CHUTRO)Session["ChuTro"];
+}
+
+@{
+    Layout = "~/Areas/ChuTroArea/Views/Shared/_LayoutChuTroArea.cshtml";
+}
+<script src="~/ckeditor/ckeditor.js"></script>
+@using (Html.BeginForm("ThemNhaTro", "QLNhaTro", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    <div class="nav-text">
+        <ol>
+            <li><a href="@Url.Action("Index","Motel")">Trang chủ</a></li>
+            <li id="arrow1">  <i class="fa fa-angle-right"></i>  </li>
+            <li><a href="#">Đăng tin</a></li>
+        </ol>
+    </div>
+}
+
+<section class="wrap-content">
+    @Html.AntiForgeryToken()
+    <div class="content post" style="border: none;">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <h3 class="notice">Là người văn minh và tôn trọng người xem, hãy viết nội dung bằng Tiếng Việt có dấu!</h3>
+        <form class="form" id="form-dangtin" enctype="multipart/form-data" novalidate="novalidate" method="post">
+            <div class="wrapper form-step step1">
+                <!--Thông tin cơ bản-->
+                <div class="group-form">
+                    <div class="form-title"><h3>THÔNG TIN NHÀ TRỌ</h3></div>
+                    <div class="group-form-body">
+                        <div class="form-group">
+                            <label for="tieude">Tên nhà trọ:</label>
+                            <input type="text" value="@ViewBag.tennhatro" class="form-control" id="TenNhaTro" name="sTenNhaTro" required>
+                            <label for="tieude">Tên khu vực</label>
+                            <input type="text" class="form-control" value="@ViewBag.khuvuc" id="KhuVuc" name="sTenKhuVuc" required>
+                            <label for="tieude">Địa chỉ chi chi tiết</label>
+                            <input type="text" class="form-control" @ViewBag.idachi id="DiaChi" name="sDiaChi" required>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                <button type="submit" class="btn btn-default" style="width:135px;">
+                    Thêm Nhà Trọ
+                </button>
+            </div>
+        </form>
+    </div>
+</section>
+
+
+<script>
+
+    $(document).on('click', "close", (function () {
+        Window.location.reload();
+    }));
+    $(document).on('click', "cls", (function () {
+        location.reload();
+    }));
+   
+</script>

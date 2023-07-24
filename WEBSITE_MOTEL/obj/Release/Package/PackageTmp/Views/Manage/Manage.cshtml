@@ -1,0 +1,72 @@
+﻿@model IEnumerable<WEBSITE_MOTEL.Models.PHONGTRO>
+@{
+    ViewBag.Title = "Manage";
+    Layout = "~/Views/_LayoutUser.cshtml";
+
+}
+
+
+
+<div class="nav-text">
+    <ol>
+        <li><a href="@Url.Action("Index","Motel")">Trang chủ</a></li>
+        <li id="arrow1">  <i class="fa fa-angle-right"></i>  </li>
+        <li class="active" id="search-target">Quản lý</li>
+    </ol>
+</div>
+<section class="wrap-content">
+    <div class="content" style="border: none;">
+        <div class="wrapper">
+            <!-- Nav tabs -->
+            <!-- Tab panes -->
+           
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="quan_ly_tin">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th style="white-space: nowrap;" class="td_center">Mã số</th>
+                                    <th style="white-space: nowrap;">Trạng thái</th>
+                                    <th style="white-space: nowrap;">Tiêu đề</th>
+                                    <th style="white-space: nowrap;">Ngày đăng tin</th>
+                                    <th style="white-space: nowrap;">Ngày hết hạn</th>
+                                    <th style="white-space: nowrap; text-align: center;">Thao tác</th>
+                                    <th style="white-space: nowrap;">Trạng thái</th>
+                                </tr>
+                            </thead>
+                            
+                            @foreach (var item in Model)
+                            {
+                                <tbody>
+                                    <tr>
+                                        <td class="td_col2 td_matin">@item.Id</td>
+                                        <td class="td_col2 td_matin" id="status" style="color: #4CAF50">Tin đang được đăng</td>
+                                        <td class="td_col3">
+                                            <a href="home.html#content1" class="" target="_blank">@item.TenPhong</a>
+                                        </td>
+                                        <td class="td_col4 date-up item1" style="color: #4CAF50"></td>
+                                        <td class="td_col4 date-dead item1" style="color: #ED2327"></td>
+                                        <td>
+                                            <a class="btn btn_action" id="st2"><i class="fa fa-refresh"></i> Đăng lại</a>
+                                            <a class="btn btn_action" id="st1"><i class="fa fa-expeditedssl"></i> Ngừng đăng tin</a>
+                                            <a class="btn btn_action" href="#"><i class="fa fa-pencil"></i> Sửa</a>
+                                            <a class="btn btn_action" href="#"><i class="fa fa-eraser"></i> Xóa</a>
+                                        </td>
+                                    </tr>
+
+                                </tbody>
+                            }
+                        </table>
+                    </div>
+                    <div class="page_navigation">
+                        <p></p>
+                    </div>
+                </div>
+
+
+            </div>
+            
+        </div>
+    </div>
+</section>

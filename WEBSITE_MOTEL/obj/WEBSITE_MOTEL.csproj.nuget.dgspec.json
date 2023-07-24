@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\TDMU\\WEBSITE_MOTEL\\WEBSITE_MOTEL\\WEBSITE_MOTEL.csproj": {}
+  },
+  "projects": {
+    "E:\\TDMU\\WEBSITE_MOTEL\\WEBSITE_MOTEL\\WEBSITE_MOTEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\TDMU\\WEBSITE_MOTEL\\WEBSITE_MOTEL\\WEBSITE_MOTEL.csproj",
+        "projectName": "WEBSITE_MOTEL",
+        "projectPath": "E:\\TDMU\\WEBSITE_MOTEL\\WEBSITE_MOTEL\\WEBSITE_MOTEL.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "E:\\TDMU\\WEBSITE_MOTEL\\WEBSITE_MOTEL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Captcha": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNet.Razor": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "Microsoft.AspNet.WebPages": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "Microsoft.Web.Infrastructure": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

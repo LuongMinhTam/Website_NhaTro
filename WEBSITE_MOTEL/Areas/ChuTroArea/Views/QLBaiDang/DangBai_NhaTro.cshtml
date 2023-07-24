@@ -1,0 +1,93 @@
+﻿
+@model IEnumerable<WEBSITE_MOTEL.Models.NHATRO>
+
+@{
+    ViewBag.Title = "Manage";
+    //Layout = "~/Views/_LayoutUser.cshtml";
+    Layout = "~/Areas/ChuTroArea/Views/Shared/_LayoutChuTroArea.cshtml";
+}
+
+<div class="nav-text">
+    <ol>
+        <li><a href="@Url.Action("NhaTro")">Quản Lý Nhà Trọ</a></li>
+    </ol>
+</div>
+
+<style>
+    /* Định dạng chung cho nút "Đăng tin" */
+    .btn-dang-tin {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #428bca;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 30px;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+    }
+
+        /* Hiệu ứng khi di chuột qua nút "Đăng tin" */
+        .btn-dang-tin:hover {
+            background-color: #3071a9;
+        }
+
+        /* Icon và văn bản trong nút */
+        .btn-dang-tin i {
+            font-size: 24px;
+            margin-right: 10px;
+        }
+
+        .btn-dang-tin span {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        /* Để biểu tượng và văn bản nằm trên cùng một dòng */
+        .btn-dang-tin i, .btn-dang-tin span {
+            vertical-align: middle;
+        }
+</style>
+<section class="wrap-content">
+    <div class="content" style="border: none;">
+        <div class="wrapper">
+            <!-- Nav tabs -->
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="quan_ly_tin">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th style="white-space: nowrap;" class="td_center">Mã số</th>
+                                    <th style="white-space: nowrap;">Tên nhà trọ</th>
+                                    <th style="white-space: nowrap; text-align: center;">Thao tác</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="col-md-1 td_matin">@item.Id</td>
+                                        <td class="col-md-8">
+                                            <a href="home.html#content1" class="" target="_blank">@item.TenNhaTro</a>
+                                        </td>
+                                        <td class="col-md-1">
+                                            <a class="btn btn_action" href="@Url.Action("DangBai_PhongTro", new {id = item.Id})" id="idDangBai" data-id="@item.Id" style="color:#f2af11"><i class="fa fa-upload"></i> Chọn Phòng </a>
+
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="page_navigation">
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+

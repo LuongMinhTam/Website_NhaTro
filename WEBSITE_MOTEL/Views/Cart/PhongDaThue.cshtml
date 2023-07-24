@@ -1,0 +1,96 @@
+﻿@{
+    Layout = "~/Views/_LayoutUser.cshtml";
+}
+@model IEnumerable<WEBSITE_MOTEL.Models.DangBai_CT>
+
+<div class="nav-text">
+    <ol>
+        <li><a href="@Url.Action("Index","Motel")">Trang chủ</a></li>
+        <li id="arrow1"><i class="fa fa-angle-right"></i></li>
+        <li class="active" id="search-target">Phòng đã thuê</li>
+    </ol>
+</div>
+<style>
+    /* Định dạng chung cho nút "Đăng tin" */
+    .btn-dang-tin {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #428bca;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 30px;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+    }
+
+        /* Hiệu ứng khi di chuột qua nút "Đăng tin" */
+        .btn-dang-tin:hover {
+            background-color: #3071a9;
+        }
+
+        /* Icon và văn bản trong nút */
+        .btn-dang-tin i {
+            font-size: 24px;
+            margin-right: 10px;
+        }
+
+        .btn-dang-tin span {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        /* Để biểu tượng và văn bản nằm trên cùng một dòng */
+        .btn-dang-tin i, .btn-dang-tin span {
+            vertical-align: middle;
+        }
+</style>
+<section class="wrap-content">
+    <div class="content" style="border: none;">
+        <div class="wrapper">
+            <!-- Nav tabs -->
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="quan_ly_tin">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th style="white-space: nowrap;">Tên nhà trọ</th>
+                                    <th style="white-space: nowrap; text-align: center;">Thao tác</th>
+                                    <th style="white-space: nowrap; text-align: center;">Thanh Toán</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    @:<tr>
+                                        <td class="td_col5 td_col5_right">
+                                            <a class="" target="_blank">@item.sTenPhongTro</a>
+                                        </td>
+                                        @:<td>
+                                            <a class="btn btn_action" href="@Url.Action("ManageInfoCT","Info", new {id = item.sId_NhaTro})" id="idxemchitiet" data-id="@item.sId_NhaTro" style="color:#4cff00"><i class="fa fa-home"></i> Xem thông tin phòng trọ </a>
+                                            <a class="btn btn_action" href="@Url.Action("ManageInfoCT","Info", new {id = item.sId_ChuTro})" id="idxemchitiet" data-id="@item.sId_NhaTro" style="color:#0d88e5"><i class="fa fa-user"></i> Xem thông tin chủ trọ </a>
+                                            <a class="btn btn_action" href="@Url.Action("BaoCao","Cart", new {id = item.SId_Phong})" id="idxemchitiet" data-id="@item.sId_NhaTro" style="color:#eecf16"><i class="fa fa-mail-reply"></i> Báo cáo </a>
+                                        @:</td>
+                                        <td><a class="btn btn_action btn-danger" style="justify-content: center; padding: 7px 25px" id="st4" >Chưa thanh toán</a></td>
+
+
+
+                                    @:</tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="page_navigation">
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+

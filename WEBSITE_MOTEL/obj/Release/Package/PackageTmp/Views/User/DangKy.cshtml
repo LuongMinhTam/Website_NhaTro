@@ -1,0 +1,138 @@
+﻿@model IEnumerable<WEBSITE_MOTEL.Models.TAIKHOAN>
+@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/_LayoutUser.cshtml";
+}
+
+
+<div id="id_back_top"><h2 style="text-align:center; line-height: 5.2; margin-bottom: 0.5rem;">ĐĂNG KÝ</h2></div>
+<div id="header"></div>
+<div class="main">
+    <div class="login_form">
+        @*<form class="login" action="~/User/DangKy" method="post">*@
+
+            <div class="form-group"> <input placeholder="Họ và tên*" name="TaiKhoan" type="text" id="user_name" class="form-control"> </div>
+            <div class="form-group"> <input placeholder="TDN*" name="TenDN" type="text" id="user_tendn" class="form-control"> </div>
+            @*<div class="form-group"> <input placeholder="Số điện thoại*" name="SDT" type="text" id="use_phone" class="form-control"> </div>*@
+            @*<div class="form-group"> <input placeholder="Email*" name="Email" type="text" id="user_email" class="form-control"> </div>*@
+            <div class="form-group"> <input placeholder="Mật khẩu*" name="MatKhau" type="password" id="user_pass" class="form-control"> </div>
+            <div class="form-group"> <input placeholder="Nhập lại mật khẩu*" name="MatKhauNL" type="password" id="user_re_pass" class="form-control"> </div>
+            @*<div class="form-group"> <ul><li>Chọn Avarta</li></ul> <input placeholder="Avarta*" name="Avarta" type="file"> </div>*@
+            <div class="item">
+                <div class="item_input">
+                    <label style="width:max-content;">Hình thức: <span class="red">(*)</span></label>
+                    <div class="item_input">
+                        <div class="form-check-inline">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" id="chutro" value="" name="check_kt">Chủ trọ
+                                @*<input type="text" class="form-check-input" id="idchutro" value="" name="check_kt">Chủ trọ*@
+                            </label>
+                        </div>
+                        <div class="form-check-inline">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" id="nguoidung" value="" name="check_kt">Người dùng
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                @*<div class="form-check-inline">
+            <label class="form-check-label" for="radio1">
+                <input type="radio" class="form-check-input" id="radio1" name="optradio" value="option1" checked>Người thuê trọ
+            </label>
+        </div>
+        <div class="form-check-inline">
+            <label class="form-check-label" for="radio2">
+                <input type="radio" class="form-check-input" id="radio2" name="optradio" value="option2">Chủ nhà trọ
+            </label>
+        </div>*@
+                <div class="item_message">
+                    <p class="message text-danger"></p>
+                </div>
+                <div class="form-group">
+                    <input type="hidden" name="action" value="register">
+                    <button class="btnRe btn btn-warning btn-block btn-lg text-white" id="btnDangki" type="submit">Đăng ký</button>
+                </div>
+@*</form>*@
+        <div class="login_form border-0">
+            <div class="form-text">
+                <p> Đã có tài khoản? </p>
+            </div>
+            <div class="form-group">
+                <a href="@Url.Action("DangNhap","User")" class="btn btn-outline-dark btn-block font-weight-bold">ĐĂNG NHẬP NGAY</a>
+            </div>
+        </div>
+    </div>
+
+</div>
+@*<script src="~/js/jvdangky.js"></script>*@
+<script>
+    @*var idct = $('#idchutro').val('2');*@
+    var idchutro = 2;
+    var idnguoidung = 3;
+    $(document).on('click', "#btnDangki", (function () {
+        var ct = $('#chutro').is(":checked");
+        var nd = $('#nguoidung').is(":checked");
+        var name = $('#user_name').val();
+        var tdn = $('#user_tendn').val();
+        var mk = $('#user_pass').val();
+        var mknl = $('#user_re_pass').val();
+
+        if ((ct == true && nd == false) && (name.length > 0 && tdn.length > 0 && mk.length > 0 && mknl.length > 0) && mk == mknl) {
+            $.ajax({
+                url: '/User/ADDTaiKhoan',
+                type: 'post',
+                data: {
+                    HoTen: name,
+                    Taikhoan: tdn,
+                    Matkhau: mk,
+                    Phanquyen: idchutro
+
+                },
+                success: function (data) {
+                    if (data.code == 200) {
+                        alert(data.msg);
+                        
+                        location.href = '@Url.Action("DangNhap", "User")';
+
+                    }
+                    else {
+                        alert(data.msg);
+                    }
+
+                }
+            })
+        }
+        else if (ct == false && nd == true && (name.length > 0 && tdn.length > 0 && mk.length > 0 && mknl.length > 0) && mk == mknl) {
+            $.ajax({
+                url: '/User/ADDTaiKhoan',
+                type: 'post',
+                data: {
+                    HoTen: name,
+                    Taikhoan: tdn,
+                    Matkhau: mk,
+                    Phanquyen: idnguoidung
+
+                },
+                success: function (data) {
+                    if (data.code == 200) {
+                        alert(data.msg);
+                        location.reload();
+                    }
+                    else {
+                        alert(data.msg);
+                    }
+
+                }
+            })
+        }
+        else if (mk != mknl)
+        {
+            alert("Mat khau nhap lai khong trung khop")
+        }
+        else {
+            alert("Vui long nhap day du thong tin");
+        }
+    }));
+</script>
+

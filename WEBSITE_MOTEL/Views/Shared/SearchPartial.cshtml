@@ -1,0 +1,83 @@
+﻿@using WEBSITE_MOTEL.Models
+@using (Html.BeginForm("SearchKQ", "Motel", FormMethod.Get))
+{ 
+        <div>
+            <div class="title-side">
+                TÌM PHÒNG
+            </div>
+            <div class="row">
+                <select class="select" name="IdKV">
+                    <option>Quận/Huyện</option>
+                    <option>Hiệp Thành</option>
+                    <option>Phú Lợi</option>
+                    <option>Phú Cường</option>
+                    <option>Phú Hòa</option>
+                    <option>Phú Thọ</option>
+                    <option>Chính Nghĩa</option>
+                    <option>Định Hòa</option>
+                    <option>Hòa Phú</option>
+                    <option>Phú Mỹ</option>
+                    <option>Phú Tân</option>
+                    <option>Tân An</option>
+                    <option>Hiệp An</option>
+                    <option>Tương Hiệp Bình</option>
+                    <option>Chánh Mỹ</option>
+                </select>
+            </div>
+
+            <div class="row">
+                <select class="select" name="IdSL">
+                    <option>Số người ở</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                </select>
+                <select class="select" name="IdDT">
+                    <option>Diện tích(m2)</option>
+                    <option>Dưới 15</option>
+                    <option>15 - 25</option>
+                    <option>25 - 35</option>
+                    <option>Trên 35</option>
+                </select>
+                <select class="select" name="IdGia">
+                    <option>Mức giá?</option>
+                    <option>500000 - 1000000</option>
+                    <option>1000000 - 1500000</option>
+                    <option>1500000 - 2000000</option>
+                    <option>Trên 2000000</option>
+                    <option>Trên 2000000</option>
+                </select>
+            </div>
+            <div class="search-button">
+                <input type="submit" value="Tìm kiếm" class="btn btn-search" />
+            </div>
+        </div>
+        <style>
+            /* CSS cho phần tử div chứa nút tìm kiếm */
+            .search-button {
+                display: flex; /* Để nút tìm kiếm ở trung tâm theo chiều ngang */
+                justify-content: center; /* Căn giữa nút tìm kiếm theo chiều ngang */
+            }
+
+            /* CSS cho nút tìm kiếm */
+            .btn-search {
+                color: #000;
+                background-color: #f0d419;
+                color: #fff;
+                font-size: 16px;
+                padding: 10px 80px; 
+                background-color: #f0d419; /* Màu nền vàng */
+                border: none; /* Loại bỏ viền nút */
+                color: white; /* Màu văn bản trong nút */
+                cursor: pointer; /* Biểu tượng chuột thành dấu tay khi di chuột vào nút */
+            }
+
+                /* CSS khi di chuột vào nút */
+                .btn-search:hover {
+                    background-color: #e0b316; /* Thay đổi màu nền khi di chuột vào nút */
+                    color: #000;
+                }
+        </style>
+}
+
+
